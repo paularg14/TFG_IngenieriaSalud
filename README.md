@@ -5,7 +5,7 @@
 ### Alumna: Paula Rastrilla Gutiérrez
 
 ### Tutor/a: Natalia Busto Vázquez 
-<image src="/Images/Tiny doctors examining gut flora flat vector illustration.jpg" alt= "Imagen creada por pch.vector en Freepik." width="350"> <image src="/Images/mujeres_entrenando.jpg" alt= "Imagen creada por pch.vector en Freepik." width="350">
+<image src="/Images/Tiny doctors examining gut flora flat vector illustration.jpg" alt= "Imagen creada por pch.vector en Freepik." width="350"> <image src="/Images/mujeres_entrenando.jpg" alt= "Imagen creada por pch.vector en Freepik." width="350"> <image src="/Images/mujeres_entrenando.jpg" alt= "Imagen creada por Freepik." width="350">
 
 ## _Resumen_
 El presente repositorio recoge los documentos del Trabajo de Fin de Grado (TFG) del [Grado en Ingeniería de la Salud](https://www.ubu.es/grado-en-ingenieria-de-la-salud) de la alumna [Paula Rastrilla Gutiérrez](https://orcid.org/0000-0001-7738-2172), tutorizada por [Natalia Busto Vázquez](https://orcid.org/0000-0001-9637-1209), realizado durante el curso 2023/2024 en la [Universidad de Burgos](https://www.ubu.es). 
