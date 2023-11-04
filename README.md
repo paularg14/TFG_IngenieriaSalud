@@ -1,3 +1,5 @@
+Repositorio sobre el desarrollo del Trabajo Fin de Grado de Ingeniería de la Salud, que versará sobre la eficacia de la suplementación con probióticos en deportistas de crossfit.
+
 <image src="/Images/cabeceraSalud.jpg"  width="800">
  
 # Efectividad de la suplementación con probióticos en deportistas de crossfit
