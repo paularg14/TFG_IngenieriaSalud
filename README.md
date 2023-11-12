@@ -1,6 +1,6 @@
 <image src="/Images/cabeceraSalud.jpg"  width="800">
  
-# Efectividad de la suplementación con probióticos en deportistas de crossfit
+# Efectividad de la suplementación con probióticos en deportistas de CrossFit®.
  
 #### Alumna: Paula Rastrilla Gutiérrez
 #### Tutor/a: Natalia Busto Vázquez 
