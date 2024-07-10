@@ -1,6 +1,6 @@
 <image src="/Images/cabeceraSalud.jpg"  width="800">
  
-# Efectividad de la suplementación con probióticos en deportistas de CrossFit®.
+# Efecto de la suplementación con probióticos sobre la inflamación intestinal en deportistas de Crossfit®.
  
 #### Alumna: Paula Rastrilla Gutiérrez
 #### Tutor/a: Natalia Busto Vázquez 
